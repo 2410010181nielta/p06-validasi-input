@@ -80,9 +80,9 @@ Peninjau: _(nama teman)_
 
 | No | Temuan dari teman (heuristik dan skor) | Perbaikan yang saya lakukan | Commit |
 |----|----------------------------------------|-----------------------------|--------|
-| 1 | _(isi)_ | _(isi)_ | _(isi hash atau pesan commit)_ |
-| 2 | _(isi)_ | _(isi)_ | _(isi)_ |
-| 3 | _(isi)_ | _(isi)_ | _(isi)_ |
+| 1 |  |  |  |
+| 2 | |  |  |
+| 3 |  |  | |
 
 Temuan dengan skor 3 dan 4 wajib diperbaiki dan dapat ditelusuri ke commit.
 
@@ -108,7 +108,7 @@ Temuan dengan skor 3 dan 4 wajib diperbaiki dan dapat ditelusuri ke commit.
 
 6. **Klik Batal, lalu pilih No.** Data **tetap ada**. Pada `batal()`, jawaban selain `YES_OPTION` memicu
    `return` sebelum `kosongkan()` dipanggil.
-   _(Nomor 6 dijelaskan dari alur kode karena dialog tidak dapat diuji tanpa layar. Coba sendiri di aplikasi.)_
+   
 
 ## Jawaban Pertanyaan Refleksi
 
@@ -132,13 +132,8 @@ Sebagian pengguna buta warna sehingga tidak dapat membedakan merah dari warna la
 tidak membacakan warna. Karena itu setiap kesalahan juga disertai teks yang jelas dan label pesan di bawah isian.
 
 **5. Temuan peer review yang paling bermanfaat.**
-_(Isi sendiri setelah peer review dari temanmu.)_
+
 
 ## Deklarasi Penggunaan AI
 
-_(Edit bagian ini agar sesuai dengan keadaan sebenarnya.)_
-
-Saya menggunakan Claude (Anthropic) untuk membantu menyusun kerangka proyek `p06-validasi-input`,
-termasuk berkas `.java`, `.form`, `pom.xml`, serta draf isi README ini. Saya sudah membuka dan memeriksa
-seluruh form di Apache NetBeans, menjalankan aplikasi, mengambil sendiri semua tangkapan layar, melakukan
-peer review dengan teman, dan memahami kode yang dihasilkan.
+saya menggunakan claude ai untuk membantu menyelesaikan tugas karna saya kurang paham jika tidak ada bantuan 
